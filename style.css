@@ -1,0 +1,15 @@
+body {
+    background-color: LightCyan;
+    font-size: 18px;
+  }
+
+#resultH2{
+    color: blue;
+}
+
+.main{
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0px 5px 0px;
+}
